@@ -1,0 +1,109 @@
+{
+  "series": [
+    {
+      "title": "The Terror",
+      "genre": ["horror", "drama"],
+      "season": 3,
+      "network": ["AMC","Netflix"],
+      "premiere": "20.10.2019"
+    },
+    {
+      "title": "Better Call Saul",
+      "genre": ["drama", "traget"],
+      "season": 8,
+      "network": ["AMC","Netflix", "Duplex"],
+      "premiere": "21.03.2018"
+    },
+    {
+      "title": "Preacher",
+      "genre": ["comedy", "drama"],
+      "season": 5,
+      "network": ["AMC","Netflix"],
+      "premiere": "20.10.2019"
+    },
+    {
+      "title": "The Terror",
+      "genre": ["horror", "drama"],
+      "season": 3,
+      "network": ["AMC","Netflix"],
+      "premiere": "20.10.2019"
+    },
+    {
+      "title": "Better Call Saul",
+      "genre": ["drama", "traget"],
+      "season": 8,
+      "network": ["AMC","Netflix", "Duplex"],
+      "premiere": "21.03.2018"
+    },
+    {
+      "title": "Preacher",
+      "genre": ["comedy", "horror"],
+      "season": 5,
+      "network": ["AMC","Netflix"],
+      "premiere": "20.10.2019"
+    },
+    {
+      "title": "The Terror",
+      "genre": ["horror", "drama"],
+      "season": 3,
+      "network": ["AMC","Netflix"],
+      "premiere": "20.10.2019"
+    },
+    {
+      "title": "Better Call Saul",
+      "genre": ["drama", "traget"],
+      "season": 8,
+      "network": ["AMC","Netflix", "Duplex"],
+      "premiere": "21.03.2018"
+    },
+    {
+      "title": "Preacher",
+      "genre": ["comedy", "horror"],
+      "season": 5,
+      "network": ["AMC","Netflix"],
+      "premiere": "20.10.2019"
+    },
+    {
+      "title": "The Terror",
+      "genre": ["horror", "drama"],
+      "season": 3,
+      "network": ["AMC","Netflix"],
+      "premiere": "20.10.2019"
+    },
+    {
+      "title": "Better Call Saul",
+      "genre": ["drama", "traget"],
+      "season": 8,
+      "network": ["AMC","Netflix", "Duplex"],
+      "premiere": "21.03.2018"
+    },
+    {
+      "title": "Preacher",
+      "genre": ["comedy", "horror"],
+      "season": 5,
+      "network": ["AMC","Netflix"],
+      "premiere": "20.10.2019"
+    },
+    {
+      "title": "The Terror",
+      "genre": ["horror", "drama"],
+      "season": 3,
+      "network": ["AMC","Netflix"],
+      "premiere": "20.10.2019"
+    },
+    {
+      "title": "Better Call Saul",
+      "genre": ["drama", "traget"],
+      "season": 8,
+      "network": ["AMC","Netflix", "Duplex"],
+      "premiere": "21.03.2018"
+    },
+    {
+      "title": "Preacher",
+      "genre": ["comedy", "horror"],
+      "season": 5,
+      "network": ["AMC","Netflix"],
+      "premiere": "20.10.2019"
+    }
+  ]
+}

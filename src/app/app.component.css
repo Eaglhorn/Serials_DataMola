@@ -1,0 +1,88 @@
+.wrapper {
+  width: 100%;
+}
+.container {
+  width: 991px;
+  margin: 5% auto;
+}
+.filter {
+  display: flex;
+  justify-content: space-between;
+}
+.filter-control {
+  background-color: orange;
+  color: white;
+  width: 24%;
+  padding: 11px;
+  margin-bottom: 20px;
+}
+.filter-control:first-child::placeholder {
+  color: white;
+}
+h2 {
+  margin-bottom: 10px;
+}
+table {
+  width: 100%;
+  background-color: white;
+}
+th {
+  padding: 11px;
+  background-color: mediumpurple;
+  color: white;
+  cursor: pointer;
+}
+th:first-child, td:first-child {
+  text-align: start;
+  padding-left: 25px;
+}
+tbody {
+  text-align: center;
+}
+
+
+mat-paginator {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+.pagination {
+  display: inline-block;
+}
+
+.pagination a {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+  border: 1px solid #ddd;
+}
+
+.pagination a.active {
+  background-color: #4CAF50;
+  color: white;
+  border: 1px solid #4CAF50;
+}
+
+.pagination a:hover:not(.active) {background-color: #ddd;}
+
+.pagination a:first-child {
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.pagination a:last-child {
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+.span-block {
+  margin-bottom: 20px;
+}
+.oval {
+  border-radius: 50%;
+  margin-right: 10px;
+  padding: 5px;
+  background-color: indianred;
+  color: white;
+  margin-bottom: 20px;
+}
